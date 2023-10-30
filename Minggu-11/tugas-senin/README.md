@@ -22,7 +22,7 @@ Configurasi :
         Subnet Mask : 255.255.255.252
 
 ## **2. Router 1**
- - Static
+    - Static
         - Network     : 192.168.4.0
           Next Hop    : 192.168.10.13
         - Network     : 192.168.2.0
@@ -34,7 +34,7 @@ Configurasi :
         Subnet Mask : 255.255.255.252
 
 ## **2. Router 2**
- - Static
+    - Static
         - Network     : 192.168.4.0
           Next Hop    : 192.168.10.10
         - Network     : 192.168.1.0
