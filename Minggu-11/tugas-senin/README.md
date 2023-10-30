@@ -6,7 +6,7 @@
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
 
 <div align="center">
-<img src="./assets/tugas-senin.png">
+<img src="./assets/10-31-23.png">
 </div>
 
 Configurasi :
