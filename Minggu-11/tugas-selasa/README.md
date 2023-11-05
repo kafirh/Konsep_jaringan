@@ -3,12 +3,12 @@
     Kelas		: 2 D4 Teknik Informatika
     Mata Kuliah	: Konsep Jaringan
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
-    
+
 ## **1. Ping antara PC**
-<img src="./assets/ping_antara_pc.jpeg">
+<img src="./assets/ping_antara_pc.png">
 
 ## **2. Physical**
-<img src="./assets/physical.png">
+<img src="./assets/pysical.png">
 
 ## **3. Logical**
 <img src="./assets/logical.png">
