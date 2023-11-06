@@ -11,6 +11,7 @@
 <div align="center">
 <img src="./assets/accurate.id-Routing-Adalah-Ini-Pengertian-Fungsi-Jenis-dan-Cara-Kerjanya.jpg">
 </div>
+
 ## A.Pendahuluan
 
 Jaringan komputer adalah komponen penting dalam dunia digital saat ini, menghubungkan jutaan perangkat dan pengguna di seluruh dunia. Untuk menjaga komunikasi yang efisien dan efektif, dinamika dalam jaringan perlu dipahami dan dikelola. Salah satu aspek penting dalam pengelolaan jaringan adalah routing, yang mengatur bagaimana data dikirimkan dari satu perangkat ke perangkat lain. Dinamis routing adalah salah satu pendekatan yang digunakan dalam pengelolaan jaringan modern. Dalam esai ini, kami akan membahas konsep dinamis routing, manfaatnya, dan beberapa teknologi terkait.
