@@ -20,7 +20,7 @@ Jaringan komputer adalah komponen penting dalam dunia digital saat ini, menghubu
 
 Statis routing adalah metode di mana administrator jaringan secara manual menentukan rute data yang digunakan dalam jaringan. Ini berbeda dengan dinamis routing, di mana protokol routing menghitung rute secara otomatis berdasarkan informasi topologi jaringan. Dalam statis routing, administrator secara eksplisit mengonfigurasi tabel routing pada perangkat jaringan untuk mengarahkan data ke tujuan yang diinginkan. Ini sering digunakan dalam jaringan yang memiliki topologi sederhana atau ketika perubahan jarang terjadi.Dinamis routing adalah metode routing di mana rute data dalam jaringan dapat berubah secara otomatis sesuai dengan perubahan topologi jaringan atau keadaan jaringan. Ini berbeda dengan metode routing statis di mana rute ditentukan dan diatur secara manual. Dalam dinamis routing, protokol routing digunakan untuk mengumpulkan informasi tentang topologi jaringan dan memutuskan rute terbaik berdasarkan informasi tersebut. Dua protokol routing yang umum digunakan adalah Routing Information Protocol (RIP) dan Open Shortest Path First (OSPF).
 
-## C.Manfatt Dinamis Routing
+## C.Manfaat Statis Routing
 Penggunaan statis routing memiliki beberapa manfaat yang penting dalam pengelolaan jaringan:
 
 1. Keprediktabilitas: Statis routing memungkinkan administrator untuk memiliki kendali penuh atas bagaimana data dikirimkan, sehingga rute data dapat diprediksi dengan baik.
