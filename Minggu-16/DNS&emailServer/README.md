@@ -8,6 +8,7 @@
 <div align="center">
 <img src="./assets/relasi_domain-367.gif">
 </div>
+
 DNS (Domain Name System) adalah sistem yang menghubungkan nama domain yang mudah diingat (seperti www.example.com) dengan alamat IP komputer atau server tempat situs web tersebut di-hosting. Cara kerja DNS adalah sebagai berikut:
 
 1. **Pemetaan Nama ke Alamat IP:** Ketika seseorang memasukkan nama domain (misalnya www.example.com) ke dalam peramban web, komputer client akan mencari alamat IP dari server DNS. Jika tidak ada informasi tentang alamat IP dalam cache lokal, permintaan akan dikirim ke server DNS.
