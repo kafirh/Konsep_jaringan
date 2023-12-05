@@ -5,7 +5,7 @@
     Mata Kuliah	: Konsep Jaringan
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
 
-    Salah satu arsitektur jaringan yang umum digunakan di banyak kampus adalah arsitektur jaringan nirkabel atau WLAN (Wireless Local Area Network). Arsitektur ini memungkinkan akses internet dan konektivitas antar perangkat secara nirkabel.
+Salah satu arsitektur jaringan yang umum digunakan di banyak kampus adalah arsitektur jaringan nirkabel atau WLAN (Wireless Local Area Network). Arsitektur ini memungkinkan akses internet dan konektivitas antar perangkat secara nirkabel.
 
 Contoh arsitektur jaringan nirkabel yang umum di kampus dapat menggambarkan struktur seperti ini:
 
