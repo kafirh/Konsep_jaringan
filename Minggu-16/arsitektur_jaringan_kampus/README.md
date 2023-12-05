@@ -5,26 +5,25 @@
     Mata Kuliah	: Konsep Jaringan
     Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
 
-Salah satu arsitektur jaringan yang umum digunakan di banyak kampus adalah arsitektur jaringan nirkabel atau WLAN (Wireless Local Area Network). Arsitektur ini memungkinkan akses internet dan konektivitas antar perangkat secara nirkabel.
+Tentu, salah satu arsitektur jaringan yang umum digunakan di kampus adalah arsitektur jaringan nirkabel (wireless network architecture). Arsitektur ini menggunakan teknologi nirkabel untuk menghubungkan perangkat-perangkat dalam jaringan tanpa menggunakan kabel fisik.
 
-Contoh arsitektur jaringan nirkabel yang umum di kampus dapat menggambarkan struktur seperti ini:
-
+Contoh arsitektur jaringan nirkabel yang umum digunakan di kampus adalah jaringan Wi-Fi berbasis IEEE 802.11. Jaringan ini terdiri dari beberapa komponen utama:
 <div align="center">
 <img src="./assets/gambar-wifi.webp">
 </div>
 
-Penjelasan tentang contoh arsitektur jaringan nirkabel di kampus:
+1. **Access Points (AP)**: Merupakan perangkat yang mengizinkan perangkat lain untuk terhubung ke jaringan nirkabel. AP menangkap sinyal wireless dan mengirimkannya ke perangkat lain dalam jaringan.
 
-1. **Access Point (AP)**: Merupakan perangkat yang digunakan untuk menyediakan akses nirkabel ke jaringan. Di kampus, terdapat beberapa AP yang ditempatkan di berbagai lokasi untuk menjangkau sebanyak mungkin area.
+2. **Router**: Bertanggung jawab untuk mengarahkan lalu lintas data antara jaringan lokal (LAN) dan jaringan luas (WAN) seperti internet. Router juga dapat mengatur lalu lintas data dalam jaringan nirkabel.
 
-2. **Wireless Controller**: Bertanggung jawab mengelola dan mengatur kinerja jaringan nirkabel. Biasanya, wireless controller digunakan untuk mengelola beberapa access point secara sentral, memungkinkan administrasi yang lebih efisien.
+3. **Client Devices**: Termasuk laptop, smartphone, tablet, dan perangkat lain yang terhubung ke jaringan nirkabel untuk akses internet atau sumber daya jaringan lainnya.
 
-3. **Backbone Network**: Merupakan infrastruktur utama yang menghubungkan semua access point dan menghubungkan jaringan nirkabel ke jaringan kabel yang lebih besar di kampus.
+4. **Switches/Hubs**: Digunakan untuk menghubungkan beberapa perangkat dalam jaringan lokal secara kabel, meskipun jaringan utamanya bersifat nirkabel.
 
-4. **Client Devices**: Merupakan perangkat-perangkat seperti laptop, smartphone, tablet, dan perangkat lainnya yang terhubung ke jaringan nirkabel untuk akses internet dan layanan jaringan lainnya.
+5. **Firewall**: Berfungsi sebagai pengaman untuk jaringan, memantau dan mengontrol lalu lintas data yang masuk dan keluar dari jaringan.
 
-5. **Internet Connection**: Merupakan sumber daya utama yang menghubungkan jaringan kampus ke internet.
+6. **Server**: Dapat berperan sebagai penyimpanan data, aplikasi jaringan, atau sumber daya jaringan lainnya yang dapat diakses oleh pengguna dalam jaringan.
 
-Arsitektur jaringan nirkabel di kampus memungkinkan mobilitas tinggi bagi pengguna, memungkinkan mereka terhubung ke jaringan dari berbagai lokasi di area kampus tanpa keterbatasan kabel. Hal ini memudahkan akses internet dan layanan jaringan bagi mahasiswa, staf, dan pengunjung kampus.
+Arsitektur jaringan nirkabel ini memungkinkan akses internet dan sumber daya jaringan dari berbagai lokasi di kampus tanpa ketergantungan pada koneksi kabel. Biasanya, dalam gambaran arsitektur jaringan nirkabel, akan ada representasi dari AP yang terhubung ke router atau switch, dengan client devices terhubung secara nirkabel ke AP tersebut.
 
-Namun, penting untuk dicatat bahwa arsitektur jaringan kampus dapat bervariasi tergantung pada kebutuhan spesifik dan infrastruktur yang tersedia di setiap kampus.
+Tentunya, gambaran spesifik dari arsitektur jaringan nirkabel di suatu kampus bisa bervariasi tergantung pada skala jaringan, jumlah perangkat yang terhubung, dan konfigurasi fisiknya.
